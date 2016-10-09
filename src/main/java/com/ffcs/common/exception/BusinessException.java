@@ -1,4 +1,4 @@
-package com.ffcs.common.base.exception;
+package com.ffcs.common.exception;
 
 /**
  * Created by Administrator on 2016/10/04.

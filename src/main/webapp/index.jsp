@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>首页</title>
+    <title>首页-Review后台管理系统</title>
     <jsp:include page="WEB-INF/jsp/top.jsp"/>
 </head>
 <body>
@@ -11,27 +11,9 @@
 
         <jsp:include page="WEB-INF/jsp/navbar.jsp"/>
 
-        <noscript>
-            <div class="alert alert-block col-md-12">
-                <h4 class="alert-heading">Warning!</h4>
-
-                <p>You need to have <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>
-                    enabled to use this site.</p>
-            </div>
-        </noscript>
-
         <div id="content" class="col-lg-10 col-sm-10">
             <!-- content starts -->
-            <div>
-                <ul class="breadcrumb">
-                    <li>
-                        <a href="#">Home</a>
-                    </li>
-                    <li>
-                        <a href="#">Dashboard</a>
-                    </li>
-                </ul>
-            </div>
+
             <div class=" row">
                 <div class="col-md-3 col-sm-3 col-xs-6">
                     <a data-toggle="tooltip" title="6 new members." class="well top-block" href="#">

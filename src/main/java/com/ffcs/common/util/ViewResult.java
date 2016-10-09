@@ -2,8 +2,9 @@ package com.ffcs.common.util;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.ffcs.common.base.exception.BusinessException;
 import com.ffcs.common.enums.ShowAble;
+import com.ffcs.common.exception.BusinessException;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.util.Assert;

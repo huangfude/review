@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Administrator
-  Date: 2016/10/05
-  Time: 20:23
-  To change this template use File | Settings | File Templates.
---%>
 <%
     String path = request.getContextPath();
     String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";

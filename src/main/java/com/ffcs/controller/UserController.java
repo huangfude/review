@@ -1,7 +1,6 @@
 package com.ffcs.controller;
 
 import com.ffcs.common.enums.StatusEnum;
-import com.ffcs.common.util.UUIDGenerator;
 import com.ffcs.common.util.ViewResult;
 import com.ffcs.entity.user.User;
 import com.ffcs.entity.user.UserCriteria;

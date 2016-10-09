@@ -7,11 +7,13 @@
 
             </div>
             <ul class="nav nav-pills nav-stacked main-menu">
-                <li class="nav-header">Main</li>
+                <li class="nav-header">导航菜单</li>
                 <li><a class="ajax-link" href="index.jsp"><i class="glyphicon glyphicon-home"></i><span>首页</span></a>
                 </li>
             </ul>
+            <!--  
             <label id="for-is-ajax" for="is-ajax"><input id="is-ajax" type="checkbox"> Ajax on menu</label>
+            -->
         </div>
     </div>
 </div>

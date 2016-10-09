@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Administrator
-  Date: 2016/10/04
-  Time: 19:24
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
     String path = request.getContextPath();
@@ -54,16 +47,6 @@
 
         <div id="content" class="col-lg-10 col-sm-10">
             <!-- content starts -->
-            <div>
-                <ul class="breadcrumb">
-                    <li>
-                        <a href="#">首页</a>
-                    </li>
-                    <li>
-                        <a href="#">角色管理</a>
-                    </li>
-                </ul>
-            </div>
 
             <div class="row">
                 <div class="box col-md-12">
@@ -95,12 +78,6 @@
                                 </thead>
                                 <tfoot>
                                 <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th>角色名</th>
-                                    <th>角色编码</th>
-                                    <th>角色描述</th>
-                                    <th>操作</th>
                                 </tr>
                                 </tfoot>
                             </table>
@@ -141,15 +118,6 @@
                                 </thead>
                                 <tfoot>
                                 <tr>
-                                    <th></th>
-                                    <th></th>
-                                    <th>用户名</th>
-                                    <th>姓名</th>
-                                    <th>性别</th>
-                                    <th>QQ</th>
-                                    <th>邮箱</th>
-                                    <th>类别</th>
-                                    <th>状态</th>
                                 </tr>
                                 </tfoot>
                             </table>
@@ -227,11 +195,6 @@
                         </thead>
                         <tfoot>
                         <tr>
-                            <th></th>
-                            <th></th>
-                            <th>用户名</th>
-                            <th>姓名</th>
-                            <th>邮箱</th>
                         </tr>
                         </tfoot>
                     </table>

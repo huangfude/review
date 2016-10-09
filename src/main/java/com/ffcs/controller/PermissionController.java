@@ -6,7 +6,6 @@ import com.ffcs.entity.menu.Menu;
 import com.ffcs.entity.menu.MenuCriteria;
 import com.ffcs.entity.permission.Permission;
 import com.ffcs.entity.permission.PermissionCriteria;
-import com.ffcs.entity.role.Role;
 import com.ffcs.entity.roleMenu.RoleMenu;
 import com.ffcs.entity.roleMenu.RoleMenuCriteria;
 import com.ffcs.entity.rolePermission.RolePermission;
